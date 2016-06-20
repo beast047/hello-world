@@ -1,3 +1,4 @@
 # hello-world
 new test run 
-i dont know what im doing here but ill figure it out soon enough so please bare with me and let me play with out stress
+i am new to git and i love to mess around and learn new things 
+so here i a am.
